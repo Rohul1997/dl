@@ -36,8 +36,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 112644.61875566878,
-        "team": 0.1242566775337287,
+        "dps": 113549.86090103629,
+        "team": 0.12425667753372889,
         "noaff": true,
         "nihil": false
       },
@@ -72,7 +72,7 @@
       ]
     },
     "META": {
-      "tdps": 199389.09491150323,
+      "tdps": 201104.8251717595,
       "pref": "PERSONAL"
     }
   },
@@ -91,7 +91,7 @@
       ]
     },
     "META": {
-      "tdps": 251760.7813430535,
+      "tdps": 253913.2660090692,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -100,10 +100,10 @@
     }
   },
   "SELF-NIHILISM-ANY": {
-    "TEAMBUFF": {
+    "PERSONAL": {
       "EQMT": {
-        "dps": 66778.86443483872,
-        "team": 0.03699216759286727,
+        "dps": 67316.18147898116,
+        "team": 0.036992167592867345,
         "noaff": false,
         "nihil": true
       },
@@ -133,54 +133,15 @@
         "Seimei"
       ]
     },
-    "PERSONAL": {
-      "EQMT": {
-        "dps": 67585.80284058959,
-        "team": 0.0,
-        "noaff": true,
-        "nihil": true
-      },
-      "slots.a": [
-        "Moonlight_Party",
-        "Pecorines_Grand_Adventure",
-        "The_Bridal_Dragon",
-        "Dueling_Dancers",
-        "Such_High_Spirits",
-        "A_Kings_Pride_Sword",
-        "Savage_Hawk_Lance"
-      ],
-      "slots.d": "Gala_Chronos_Nyx",
-      "acl": [
-        "`dragon",
-        "`s3",
-        "`s4",
-        "`s2, x=5"
-      ],
-      "dacl": [
-        "`ds1, cancel and dshift_timeleft<1",
-        "`dodge, fsc",
-        "`fs3"
-      ],
-      "coabs": [
-        "Blade",
-        "Mitsuhide",
-        "Peony"
-      ],
-      "share": [
-        "Weapon",
-        "Akasha"
-      ]
-    },
     "META": {
-      "tdps": 21813.763784592717,
-      "pref": "TEAMBUFF"
+      "pref": "PERSONAL"
     }
   },
   "ALWAYS-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 135782.7643331186,
-        "team": 0.1242566775337287,
+        "dps": 136875.07617490774,
+        "team": 0.12425667753372889,
         "noaff": false,
         "nihil": false
       },
@@ -200,7 +161,7 @@
       ]
     },
     "META": {
-      "tdps": 243243.45668265887,
+      "tdps": 245313.74526807715,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",

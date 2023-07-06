@@ -34,8 +34,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 75433.74607836759,
-        "team": 0.2006740760863874,
+        "dps": 77404.90897049899,
+        "team": 0.2000489126766927,
         "noaff": false,
         "nihil": false
       },
@@ -57,11 +57,6 @@
         "`s4",
         "`fs, x=4 or hits=0"
       ],
-      "dacl": [
-        "`ds1, x=2 and crystal_arrow=2",
-        "`dfs, x=2 and ds1.check()",
-        "`dodge, fsc"
-      ],
       "coabs": [
         "Blade",
         "Tiki",
@@ -73,7 +68,7 @@
       ]
     },
     "META": {
-      "tdps": 107814.95871836484,
+      "tdps": 110854.14737575527,
       "pref": "PERSONAL"
     }
   },
@@ -92,7 +87,7 @@
       ]
     },
     "META": {
-      "tdps": 133670.0959227231,
+      "tdps": 137452.75242536634,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -215,8 +210,8 @@
   "ALWAYS-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 85261.86259537173,
-        "team": 0.200617511407042,
+        "dps": 86490.929977318,
+        "team": 0.199133160758299,
         "noaff": false,
         "nihil": false
       },
@@ -238,7 +233,7 @@
       ]
     },
     "META": {
-      "tdps": 123509.20172503237,
+      "tdps": 125176.19191669296,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -286,7 +281,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 53713.27037051624,
+        "dps": 54238.0925875362,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -317,7 +312,7 @@
       ]
     },
     "META": {
-      "tdps": 97606.44982179275,
+      "tdps": 100760.6646143123,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",
@@ -328,14 +323,14 @@
   "IMMUNE-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 57078.08406374318,
-        "team": 0.200604154941409,
+        "dps": 57104.02868008383,
+        "team": 0.2002013498932763,
         "noaff": false,
         "nihil": false
       }
     },
     "META": {
-      "tdps": 78473.69895781284,
+      "tdps": 78464.65309968527,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",

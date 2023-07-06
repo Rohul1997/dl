@@ -42,8 +42,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 115223.6752667776,
-        "team": 0.15659247922540867,
+        "dps": 116176.89776192232,
+        "team": 0.15659247922540884,
         "noaff": true,
         "nihil": false
       },
@@ -81,7 +81,7 @@
       ]
     },
     "META": {
-      "tdps": 706114.7013762448,
+      "tdps": 717202.467103109,
       "pref": "PERSONAL"
     }
   },
@@ -127,8 +127,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 65614.35067616493,
-        "team": 0.012336340402660842,
+        "dps": 66157.16511880458,
+        "team": 0.012336340402660868,
         "noaff": false,
         "nihil": true
       },
@@ -166,15 +166,15 @@
       ]
     },
     "META": {
-      "tdps": 1384865.252205196,
+      "tdps": 1406873.6060625876,
       "pref": "PERSONAL"
     }
   },
   "ALWAYS-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 137336.93940330207,
-        "team": 0.1565924792254087,
+        "dps": 138472.87132090025,
+        "team": 0.1565924792254088,
         "noaff": false,
         "nihil": false
       },
@@ -194,7 +194,7 @@
       ]
     },
     "META": {
-      "tdps": 963333.4445877103,
+      "tdps": 976546.4636343116,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -238,7 +238,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 83996.6867654647,
+        "dps": 84691.43442682925,
         "team": 0.007379339966374588,
         "noaff": false,
         "nihil": true
@@ -277,7 +277,7 @@
       ]
     },
     "META": {
-      "tdps": 1365319.0041458942,
+      "tdps": 1382005.3095020081,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",
@@ -288,8 +288,8 @@
   "IMMUNE-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 34746.90326994966,
-        "team": 0.042980854224891875,
+        "dps": 35033.77862920623,
+        "team": 0.042980854224891896,
         "noaff": false,
         "nihil": true
       },

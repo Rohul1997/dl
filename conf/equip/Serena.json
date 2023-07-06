@@ -37,7 +37,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 90045.75659457356,
+        "dps": 90730.72637130039,
         "team": 0.06455108406896919,
         "noaff": false,
         "nihil": false
@@ -74,7 +74,7 @@
       ]
     },
     "META": {
-      "tdps": 142219.00306119886,
+      "tdps": 143800.47256905626,
       "pref": "PERSONAL"
     }
   },
@@ -109,7 +109,7 @@
       ]
     },
     "META": {
-      "tdps": 167160.28605406728,
+      "tdps": 169065.10903442075,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -120,7 +120,7 @@
   "SELF-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 24052.332814710146,
+        "dps": 24235.071277573457,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -163,8 +163,8 @@
   "ALWAYS-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 105274.31079691532,
-        "team": 0.06455516383753104,
+        "dps": 106074.30042507015,
+        "team": 0.06455516383753118,
         "noaff": false,
         "nihil": false
       },
@@ -184,7 +184,7 @@
       ]
     },
     "META": {
-      "tdps": 177380.61077445376,
+      "tdps": 179227.6574087947,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -195,7 +195,7 @@
   "ALWAYS-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 57782.93855868821,
+        "dps": 58221.94651077679,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -234,8 +234,8 @@
   "IMMUNE-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 69532.60950351939,
-        "team": 0.19600754478656518,
+        "dps": 70061.53765969336,
+        "team": 0.19600754478656532,
         "noaff": true,
         "nihil": false
       },
@@ -266,7 +266,7 @@
       ]
     },
     "META": {
-      "tdps": 136193.9918954388,
+      "tdps": 137947.34946533697,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -309,7 +309,7 @@
       ]
     },
     "META": {
-      "tdps": 317002.1550512534,
+      "tdps": 343496.81142250437,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "IMMUNE-NORMAL-ANY",

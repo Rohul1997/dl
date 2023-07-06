@@ -34,8 +34,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 72533.04808175158,
-        "team": 0.10640821928590415,
+        "dps": 73061.69194772793,
+        "team": 0.10640821928590383,
         "noaff": false,
         "nihil": false
       },
@@ -68,7 +68,7 @@
       ]
     },
     "META": {
-      "tdps": 202422.58776640915,
+      "tdps": 204151.4422736717,
       "pref": "PERSONAL"
     }
   },
@@ -87,7 +87,7 @@
       ]
     },
     "META": {
-      "tdps": 224520.79616430344,
+      "tdps": 226451.36403542428,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -176,14 +176,14 @@
   "ALWAYS-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 79891.43376529525,
-        "team": 0.10640821928590415,
+        "dps": 80473.70788062645,
+        "team": 0.10640821928590383,
         "noaff": false,
         "nihil": false
       }
     },
     "META": {
-      "tdps": 226487.14062313605,
+      "tdps": 228391.385226246,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -194,15 +194,15 @@
   "IMMUNE-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 24908.62460114532,
-        "team": 0.15508633640091338,
+        "dps": 25090.556553119324,
+        "team": 0.15508633640091377,
         "noaff": true,
         "nihil": false
       },
       "slots.d": "Halloween_Maritimus"
     },
     "META": {
-      "tdps": 55510.70969978733,
+      "tdps": 56218.343984858315,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",

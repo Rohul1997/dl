@@ -43,8 +43,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 82721.41510963059,
-        "team": 0.17762096190121843,
+        "dps": 83325.48042615278,
+        "team": 0.1776209619012189,
         "noaff": false,
         "nihil": false
       },
@@ -80,7 +80,7 @@
       ]
     },
     "META": {
-      "tdps": 46852.49931645911,
+      "tdps": 49236.76703049596,
       "pref": "PERSONAL"
     }
   },
@@ -129,8 +129,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 78122.8628108317,
-        "team": 0.20524224225755447,
+        "dps": 78702.53213421075,
+        "team": 0.2052422422575544,
         "noaff": false,
         "nihil": true
       },
@@ -169,15 +169,15 @@
       ]
     },
     "META": {
-      "tdps": 2736661.476989823,
+      "tdps": 3092187.758417199,
       "pref": "PERSONAL"
     }
   },
   "ALWAYS-NORMAL-ANY": {
     "TEAMBUFF": {
       "EQMT": {
-        "dps": 95167.21498977373,
-        "team": 0.4322465330823503,
+        "dps": 95862.16458377118,
+        "team": 0.4322465330823507,
         "noaff": false,
         "nihil": false
       }
@@ -208,7 +208,7 @@
       ]
     },
     "META": {
-      "tdps": 38778.4380169283,
+      "tdps": 36060.041615749935,
       "pref": "TEAMBUFF",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -219,7 +219,7 @@
   "ALWAYS-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 79494.09579650052,
+        "dps": 80083.93962793513,
         "team": 0.20011247070185917,
         "noaff": false,
         "nihil": true
@@ -241,8 +241,8 @@
   "IMMUNE-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 82673.11936436928,
-        "team": 0.17659964004782833,
+        "dps": 83276.83200577571,
+        "team": 0.1765996400478288,
         "noaff": false,
         "nihil": false
       },
@@ -266,8 +266,8 @@
   "IMMUNE-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 41178.09665121391,
-        "team": 0.20524224225755447,
+        "dps": 41483.6369062049,
+        "team": 0.2052422422575544,
         "noaff": false,
         "nihil": true
       }

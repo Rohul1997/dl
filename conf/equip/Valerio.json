@@ -33,8 +33,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 96624.27296492312,
-        "team": 0.05907426597319355,
+        "dps": 123899.2049131507,
+        "team": 0.2502620791596643,
         "noaff": false,
         "nihil": false
       },
@@ -71,72 +71,15 @@
       ]
     },
     "META": {
-      "tdps": 294718.77588744345,
+      "tdps": 1108912.0991136252,
       "pref": "PERSONAL"
     }
   },
-  "SELF-NORMAL-MONO": {
-    "TEAMBUFF": {
-      "EQMT": {
-        "dps": 11799.890803171034,
-        "team": 0.2483976610872895,
-        "noaff": true,
-        "nihil": false
-      },
-      "coabs": [
-        "Pipple",
-        "Summer_Celliera",
-        "Tiki"
-      ]
-    },
-    "META": {
-      "tdps": 448039.620833086,
-      "pref": "PERSONAL",
-      "partial": {
-        "PERSONAL": "SELF-NORMAL-ANY",
-        "TEAMBUFF": "SELF-NORMAL-ANY"
-      }
-    }
-  },
   "SELF-NIHILISM-ANY": {
-    "TEAMBUFF": {
-      "EQMT": {
-        "dps": 21150.367234010948,
-        "team": 0.04995079035456793,
-        "noaff": false,
-        "nihil": true
-      },
-      "slots.a": [
-        "An_Ancient_Oath",
-        "Emissaries_of_the_Heavens",
-        "OneWinged_Journey",
-        "Dueling_Dancers",
-        "His_Clever_Brother"
-      ],
-      "slots.d": "Gaibhne_and_Creidhne",
-      "acl": [
-        "`s2(entree), dgauge>=500",
-        "`dragon",
-        "`s3, not buff(s3)",
-        "`s4",
-        "`s2(entree), dgauge<=400",
-        "`s1(dessert), aff_timeleft(frostbite)>10",
-        "`s1(appetizer)"
-      ],
-      "coabs": [
-        "Eugene",
-        "Pipple",
-        "Tiki"
-      ],
-      "share": [
-        "Weapon",
-        "Gala_Mym"
-      ]
-    },
     "PERSONAL": {
       "EQMT": {
-        "dps": 64627.1608160521,
-        "team": 0.036798472626435014,
+        "dps": 87867.74604529518,
+        "team": 0.20212137171279593,
         "noaff": false,
         "nihil": true
       },
@@ -169,21 +112,20 @@
       ]
     },
     "META": {
-      "tdps": 3305637.4154529376,
       "pref": "PERSONAL"
     }
   },
   "ALWAYS-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 99455.18635960807,
-        "team": 0.05907426597319355,
+        "dps": 128678.53351056151,
+        "team": 0.2502620791596643,
         "noaff": false,
         "nihil": false
       }
     },
     "META": {
-      "tdps": 304351.25106879696,
+      "tdps": 1155446.7124138097,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -192,45 +134,10 @@
     }
   },
   "ALWAYS-NIHILISM-ANY": {
-    "TEAMBUFF": {
-      "EQMT": {
-        "dps": 39453.384642406825,
-        "team": 0.07566703716485453,
-        "noaff": false,
-        "nihil": true
-      },
-      "slots.a": [
-        "Emissaries_of_the_Heavens",
-        "OneWinged_Journey",
-        "The_Bridal_Dragon",
-        "Dueling_Dancers",
-        "His_Clever_Brother"
-      ],
-      "slots.d": "Gala_Reborn_Poseidon",
-      "acl": [
-        "`dragon",
-        "`s1(dessert), aff_timeleft(frostbite)>2",
-        "`s1(appetizer)",
-        "`s3",
-        "`s4, xf=3",
-        "`fsf, xf=5 and hits<20",
-        "`fsf, xf=3 and hits>20",
-        "`appetizer"
-      ],
-      "coabs": [
-        "Dagger",
-        "Tiki",
-        "Yurius"
-      ],
-      "share": [
-        "Sha_Wujing",
-        "Hunter_Berserker"
-      ]
-    },
     "PERSONAL": {
       "EQMT": {
-        "dps": 69892.9272635763,
-        "team": 0.040808170064668046,
+        "dps": 98707.70391067058,
+        "team": 0.20814196776448293,
         "noaff": false,
         "nihil": true
       },
@@ -261,11 +168,10 @@
       ]
     },
     "META": {
-      "tdps": 873222.3721925444,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",
-        "TEAMBUFF": "SELF-NIHILISM-ANY"
+        "TEAMBUFF": "SELF-NORMAL-ANY"
       }
     }
   },
@@ -297,8 +203,8 @@
   "IMMUNE-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 38407.026424718344,
-        "team": 0.07522267933465811,
+        "dps": 53561.12050654554,
+        "team": 0.2590258460488342,
         "noaff": false,
         "nihil": true
       },
@@ -326,7 +232,7 @@
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",
-        "TEAMBUFF": "SELF-NIHILISM-ANY"
+        "TEAMBUFF": "SELF-NORMAL-ANY"
       }
     }
   }

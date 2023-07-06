@@ -34,8 +34,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 93795.00890983235,
-        "team": 0.12598267580332595,
+        "dps": 94544.60016956301,
+        "team": 0.12598267580332614,
         "noaff": true,
         "nihil": false
       },
@@ -70,7 +70,7 @@
       ]
     },
     "META": {
-      "tdps": 204242.08531657152,
+      "tdps": 205986.5434729981,
       "pref": "PERSONAL"
     }
   },
@@ -156,14 +156,14 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 65082.31251102721,
+        "dps": 65561.83835024021,
         "team": 0.0,
         "noaff": false,
         "nihil": true
       },
       "slots.a": [
-        "Blossoms_on_the_Waters_Edge",
         "Pecorines_Grand_Adventure",
+        "Soaring_Hope",
         "The_Bridal_Dragon",
         "Beautiful_Nothingness",
         "Dueling_Dancers",
@@ -192,15 +192,15 @@
       ]
     },
     "META": {
-      "tdps": 362322.9213138738,
+      "tdps": 365219.373036003,
       "pref": "PERSONAL"
     }
   },
   "ALWAYS-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 126621.22597584585,
-        "team": 0.1257793598202222,
+        "dps": 127631.50171501558,
+        "team": 0.125779359820222,
         "noaff": false,
         "nihil": false
       },
@@ -215,7 +215,7 @@
       ]
     },
     "META": {
-      "tdps": 280502.9456687682,
+      "tdps": 282852.9600750579,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -226,7 +226,7 @@
   "IMMUNE-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 59592.33261125091,
+        "dps": 62609.74526651934,
         "team": 0.0,
         "noaff": true,
         "nihil": true
@@ -237,7 +237,7 @@
       ]
     },
     "META": {
-      "tdps": 329162.1186316677,
+      "tdps": 347388.0188168806,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",

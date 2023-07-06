@@ -34,8 +34,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 80062.37965540387,
-        "team": 0.09922932442636169,
+        "dps": 80632.89542491962,
+        "team": 0.09922932442636186,
         "noaff": true,
         "nihil": false
       },
@@ -71,15 +71,15 @@
       ]
     },
     "META": {
-      "tdps": 790428.4606686452,
+      "tdps": 796287.791864046,
       "pref": "PERSONAL"
     }
   },
   "SELF-NORMAL-MONO": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 77068.35821378551,
-        "team": 0.09922932442636169,
+        "dps": 77617.53891364619,
+        "team": 0.09922932442636186,
         "noaff": true,
         "nihil": false
       },
@@ -90,7 +90,7 @@
       ]
     },
     "META": {
-      "tdps": 759679.1559693925,
+      "tdps": 765319.3709792893,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -139,14 +139,14 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 54727.96337340227,
+        "dps": 59980.427419659885,
         "team": 0.0,
         "noaff": true,
         "nihil": true
       },
       "slots.a": [
-        "Blossoms_on_the_Waters_Edge",
         "Emissaries_of_the_Heavens",
+        "Soaring_Hope",
         "The_Bridal_Dragon",
         "Dueling_Dancers",
         "Mana_Fount",
@@ -175,7 +175,7 @@
       ]
     },
     "META": {
-      "tdps": 790297.2321499682,
+      "tdps": 886411.3245823063,
       "pref": "PERSONAL"
     }
   }

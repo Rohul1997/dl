@@ -41,8 +41,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 105993.46095445093,
-        "team": 0.09974742290064478,
+        "dps": 106850.26929418561,
+        "team": 0.09974742290064463,
         "noaff": true,
         "nihil": false
       },
@@ -80,7 +80,7 @@
       ]
     },
     "META": {
-      "tdps": 730584.9888855101,
+      "tdps": 738160.4921183098,
       "pref": "PERSONAL"
     }
   },
@@ -122,7 +122,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 44588.540062313004,
+        "dps": 44947.20793411109,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -156,7 +156,7 @@
       ]
     },
     "META": {
-      "tdps": 603089.6948527136,
+      "tdps": 615296.2415225168,
       "pref": "PERSONAL"
     }
   },
@@ -192,7 +192,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 127593.55450778395,
+        "dps": 128625.98705856668,
         "team": 0.09974742290064478,
         "noaff": false,
         "nihil": false
@@ -208,7 +208,7 @@
       ]
     },
     "META": {
-      "tdps": 549525.735582278,
+      "tdps": 558638.2683674728,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -227,7 +227,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 63547.90829747459,
+        "dps": 64058.08339835504,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -235,7 +235,7 @@
       "slots.d": "Corsaint_Phoenix"
     },
     "META": {
-      "tdps": 1123209.1784172712,
+      "tdps": 1140571.9718769952,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",
@@ -253,7 +253,7 @@
       }
     },
     "META": {
-      "tdps": 1275828.5139781502,
+      "tdps": 1291759.9672850077,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -264,7 +264,7 @@
   "IMMUNE-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 38482.7283571724,
+        "dps": 38791.73577249636,
         "team": 0.0,
         "noaff": false,
         "nihil": true

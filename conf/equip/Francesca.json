@@ -40,8 +40,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 56648.79512947471,
-        "team": 0.09314599545110208,
+        "dps": 57049.956125026794,
+        "team": 0.09314599545110235,
         "noaff": false,
         "nihil": false
       },
@@ -77,15 +77,15 @@
       ]
     },
     "META": {
-      "tdps": 254304.39999180188,
+      "tdps": 265572.83394370764,
       "pref": "PERSONAL"
     }
   },
   "SELF-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 38412.23674769756,
-        "team": 0.06606018031350233,
+        "dps": 38683.96318128257,
+        "team": 0.06606018031350243,
         "noaff": false,
         "nihil": true
       },
@@ -124,8 +124,8 @@
   "ALWAYS-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 81928.13627931179,
-        "team": 0.023314774374637044,
+        "dps": 82508.31406841421,
+        "team": 0.02331477437463714,
         "noaff": false,
         "nihil": false
       },
@@ -169,8 +169,8 @@
   "ALWAYS-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 52417.65505736928,
-        "team": 0.06636431374378436,
+        "dps": 52788.45518960791,
+        "team": 0.06636431374378443,
         "noaff": false,
         "nihil": true
       },
@@ -212,8 +212,8 @@
   "IMMUNE-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 54676.974049178425,
-        "team": 0.09314599545110203,
+        "dps": 55064.1715048915,
+        "team": 0.09314599545110236,
         "noaff": false,
         "nihil": false
       }
@@ -229,8 +229,8 @@
   "IMMUNE-NIHILISM-ANY": {
     "TEAMBUFF": {
       "EQMT": {
-        "dps": 19510.243408859646,
-        "team": 0.08279193156821797,
+        "dps": 19648.25799245929,
+        "team": 0.08279193156821808,
         "noaff": false,
         "nihil": true
       },
@@ -264,8 +264,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 19510.243408859646,
-        "team": 0.08279193156821797,
+        "dps": 19648.25799245929,
+        "team": 0.08279193156821808,
         "noaff": false,
         "nihil": true
       },

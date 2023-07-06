@@ -34,7 +34,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 104206.73775711379,
+        "dps": 104973.90392465098,
         "team": 0.0177557856989647,
         "noaff": false,
         "nihil": false
@@ -71,7 +71,7 @@
       ]
     },
     "META": {
-      "tdps": 217807.82720173968,
+      "tdps": 221315.71967873265,
       "pref": "PERSONAL"
     }
   },
@@ -110,7 +110,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 50599.661100871264,
+        "dps": 50971.79343991752,
         "team": 0.020100734587260013,
         "noaff": false,
         "nihil": true
@@ -143,7 +143,7 @@
       ]
     },
     "META": {
-      "tdps": 67556414.44822639,
+      "tdps": 68718433.70661993,
       "pref": "PERSONAL"
     }
   },
@@ -158,14 +158,14 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 107429.6478671126,
+        "dps": 108220.5409802449,
         "team": 0.0177557856989647,
         "noaff": false,
         "nihil": false
       }
     },
     "META": {
-      "tdps": 225768.6682243182,
+      "tdps": 229385.05293868695,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -176,8 +176,8 @@
   "ALWAYS-NIHILISM-ANY": {
     "TEAMBUFF": {
       "EQMT": {
-        "dps": 56545.40772155631,
-        "team": 0.14754314723970643,
+        "dps": 56960.84337012248,
+        "team": 0.14754314723970613,
         "noaff": false,
         "nihil": true
       },
@@ -250,7 +250,7 @@
       ]
     },
     "META": {
-      "tdps": 39356.37925179124,
+      "tdps": 36165.58415429852,
       "pref": "TEAMBUFF",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",
@@ -269,7 +269,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 80660.93604772813,
+        "dps": 81254.152329182,
         "team": 0.019662257235859164,
         "noaff": false,
         "nihil": false
@@ -285,7 +285,7 @@
       ]
     },
     "META": {
-      "tdps": 153472.68958113345,
+      "tdps": 156209.04440511,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",

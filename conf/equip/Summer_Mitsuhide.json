@@ -36,8 +36,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 101045.9112399207,
-        "team": 0.0333206547973547,
+        "dps": 101806.29017065579,
+        "team": 0.03332065479735467,
         "noaff": false,
         "nihil": false
       },
@@ -69,7 +69,7 @@
       ]
     },
     "META": {
-      "tdps": 221872.6078095943,
+      "tdps": 227606.12275797548,
       "pref": "PERSONAL"
     }
   },
@@ -113,8 +113,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 72962.51072253256,
-        "team": 0.06665168623636786,
+        "dps": 73511.55971626406,
+        "team": 0.06665168623636779,
         "noaff": false,
         "nihil": true
       },
@@ -146,7 +146,7 @@
       ]
     },
     "META": {
-      "tdps": 45901.559205787606,
+      "tdps": 59625.930267840675,
       "pref": "PERSONAL"
     }
   },
@@ -190,8 +190,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 119115.56059241356,
-        "team": 0.06659556163414479,
+        "dps": 120012.1025496217,
+        "team": 0.06659556163414472,
         "noaff": false,
         "nihil": false
       },
@@ -222,7 +222,7 @@
       ]
     },
     "META": {
-      "tdps": 158573.80824053564,
+      "tdps": 166736.26305493756,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -267,8 +267,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 88118.15905563392,
-        "team": 0.10583543956663315,
+        "dps": 88781.25557026656,
+        "team": 0.10583543956663304,
         "noaff": false,
         "nihil": true
       },
@@ -303,7 +303,7 @@
       ]
     },
     "META": {
-      "tdps": 6945563.50474369,
+      "tdps": 7113420.871128462,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",
@@ -314,8 +314,8 @@
   "IMMUNE-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 51485.5519874608,
-        "team": 0.06665577562456547,
+        "dps": 51873.471592221955,
+        "team": 0.06665577562456555,
         "noaff": false,
         "nihil": false
       },
@@ -349,10 +349,10 @@
     }
   },
   "IMMUNE-NIHILISM-ANY": {
-    "TEAMBUFF": {
+    "PERSONAL": {
       "EQMT": {
-        "dps": 42464.26193419604,
-        "team": 0.10514915683697641,
+        "dps": 42783.80905577449,
+        "team": 0.10514915683697634,
         "noaff": false,
         "nihil": true
       },
@@ -371,39 +371,17 @@
         "`s4",
         "`s1, (sunflowers > 0 and x=5) or not afflics.scorchrend",
         "`s2"
-      ]
-    },
-    "PERSONAL": {
-      "EQMT": {
-        "dps": 43153.98084597263,
-        "team": 0.06659552922889314,
-        "noaff": false,
-        "nihil": true
-      },
-      "slots.a": [
-        "Emissaries_of_the_Heavens",
-        "Twinfold_Bonds",
-        "Worthy_Rivals",
-        "A_Passion_for_Produce",
-        "Having_a_Summer_Ball",
-        "Mask_of_Determination_Bow",
-        "Promised_Piety_Staff"
       ],
-      "acl": [
-        "`dragon, s1.check()",
-        "`s3",
-        "`s4, cancel",
-        "`s1, (sunflowers > 0 and x=5) or not afflics.scorchrend",
-        "`s2"
+      "dacl": [
+        "`ds1, x=2"
       ],
       "share": [
         "Summer_Celliera",
-        "Summer_Julietta"
+        "Seimei"
       ]
     },
     "META": {
-      "tdps": 17889.857701275814,
-      "pref": "TEAMBUFF",
+      "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",
         "TEAMBUFF": "SELF-NIHILISM-ANY"

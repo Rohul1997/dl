@@ -41,8 +41,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 159568.39672240632,
-        "team": 0.08875828107828233,
+        "dps": 160854.98556520254,
+        "team": 0.08875828107828224,
         "noaff": false,
         "nihil": false
       },
@@ -79,7 +79,7 @@
       ]
     },
     "META": {
-      "tdps": 179316.09016945845,
+      "tdps": 181067.06781713103,
       "pref": "PERSONAL"
     }
   },
@@ -98,7 +98,7 @@
       ]
     },
     "META": {
-      "tdps": 198150.17889966542,
+      "tdps": 200089.7222293275,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -109,13 +109,13 @@
   "SELF-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 64629.353138679704,
+        "dps": 65340.365091456275,
         "team": 0.0,
         "noaff": false,
         "nihil": true
       },
       "slots.a": [
-        "Blossoms_on_the_Waters_Edge",
+        "Peaceful_Waterfront",
         "Pecorines_Grand_Adventure",
         "Wings_of_Rebellion_at_Rest",
         "Dueling_Dancers",
@@ -153,8 +153,8 @@
   "ALWAYS-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 167843.47420997053,
-        "team": 0.11085257212054513,
+        "dps": 169196.78442483954,
+        "team": 0.110852572120545,
         "noaff": false,
         "nihil": false
       },
@@ -174,7 +174,7 @@
       ]
     },
     "META": {
-      "tdps": 196486.19111933396,
+      "tdps": 198385.0705939142,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -185,7 +185,7 @@
   "ALWAYS-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 77768.76939092757,
+        "dps": 78396.5542983952,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -224,8 +224,8 @@
   "IMMUNE-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 120762.52363311629,
-        "team": 0.08875828107828233,
+        "dps": 121736.22343035479,
+        "team": 0.08875828107828224,
         "noaff": false,
         "nihil": false
       },
@@ -240,7 +240,7 @@
       ]
     },
     "META": {
-      "tdps": 126503.40120653326,
+      "tdps": 127828.5538301193,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -251,7 +251,7 @@
   "IMMUNE-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 43312.0279319344,
+        "dps": 43636.14314686419,
         "team": 0.0,
         "noaff": false,
         "nihil": true

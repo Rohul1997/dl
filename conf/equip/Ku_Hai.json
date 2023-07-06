@@ -40,7 +40,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 94394.81989112787,
+        "dps": 95088.17113901653,
         "team": 0.0432256079249713,
         "noaff": false,
         "nihil": false
@@ -77,15 +77,15 @@
       ]
     },
     "META": {
-      "tdps": 205930.10403275263,
+      "tdps": 210431.8505338772,
       "pref": "PERSONAL"
     }
   },
   "SELF-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 57199.527745217434,
-        "team": 0.14511587715073015,
+        "dps": 57619.40682891772,
+        "team": 0.14511587715073035,
         "noaff": false,
         "nihil": true
       },
@@ -152,8 +152,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 113112.12195757497,
-        "team": 0.115303419597319,
+        "dps": 113942.25914954708,
+        "team": 0.11530341959731918,
         "noaff": false,
         "nihil": false
       },
@@ -180,7 +180,7 @@
       ]
     },
     "META": {
-      "tdps": 64875.88329115854,
+      "tdps": 71199.45775536989,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -191,8 +191,8 @@
   "ALWAYS-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 82081.50445770758,
-        "team": 0.11398640158416071,
+        "dps": 82675.80579325205,
+        "team": 0.11398640158416073,
         "noaff": false,
         "nihil": true
       },
@@ -236,7 +236,7 @@
   "IMMUNE-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 61760.436143549334,
+        "dps": 62214.08048038569,
         "team": 0.044011472880254594,
         "noaff": false,
         "nihil": false

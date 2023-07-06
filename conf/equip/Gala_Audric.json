@@ -36,7 +36,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 106653.05829357354,
+        "dps": 107436.96039068556,
         "team": 0.049947018250472375,
         "noaff": true,
         "nihil": false
@@ -74,7 +74,7 @@
       ]
     },
     "META": {
-      "tdps": 556883.3271128718,
+      "tdps": 567828.7251056497,
       "pref": "PERSONAL"
     }
   },
@@ -115,7 +115,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 66775.78213057495,
+        "dps": 67266.58545573024,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -153,7 +153,7 @@
       ]
     },
     "META": {
-      "tdps": 1269487.2453112574,
+      "tdps": 1286216.6243587038,
       "pref": "PERSONAL"
     }
   },
@@ -168,8 +168,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 129513.59159116863,
-        "team": 0.049947018250472375,
+        "dps": 130465.33000008111,
+        "team": 0.04994701825047246,
         "noaff": false,
         "nihil": false
       },
@@ -191,7 +191,7 @@
       ]
     },
     "META": {
-      "tdps": 822690.0985424198,
+      "tdps": 835978.9463576496,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -210,7 +210,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 95500.98582281244,
+        "dps": 96202.78055477793,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -242,7 +242,7 @@
       ]
     },
     "META": {
-      "tdps": 2176857.452877894,
+      "tdps": 2200778.623503291,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",
@@ -260,7 +260,7 @@
       }
     },
     "META": {
-      "tdps": 806546.7903340054,
+      "tdps": 817492.1883267832,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -271,7 +271,7 @@
   "IMMUNE-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 59511.61921764323,
+        "dps": 59948.770281977675,
         "team": 0.0,
         "noaff": false,
         "nihil": true

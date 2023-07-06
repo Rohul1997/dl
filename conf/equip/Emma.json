@@ -2,8 +2,8 @@
   "SELF-NORMAL-ANY": {
     "TEAMBUFF": {
       "EQMT": {
-        "dps": 9436.82944592335,
-        "team": 1.5670882201978733,
+        "dps": 9504.221212602912,
+        "team": 1.5670882201978746,
         "noaff": true,
         "nihil": false
       },
@@ -35,8 +35,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 9436.82944592335,
-        "team": 1.5670882201978733,
+        "dps": 9504.221212602912,
+        "team": 1.5670882201978746,
         "noaff": true,
         "nihil": false
       },
@@ -73,8 +73,8 @@
   "SELF-NORMAL-MONO": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 9203.761336544943,
-        "team": 1.5185078006948856,
+        "dps": 9269.488680683262,
+        "team": 1.5185078006948864,
         "noaff": true,
         "nihil": false
       },
@@ -129,7 +129,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 35106.650789983556,
+        "dps": 35356.46789480971,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -161,7 +161,7 @@
       ]
     },
     "META": {
-      "tdps": 394665.8966514124,
+      "tdps": 401414.864247244,
       "pref": "PERSONAL"
     }
   },
@@ -201,7 +201,7 @@
       ]
     },
     "META": {
-      "tdps": 33104.81543406958,
+      "tdps": 33052.20584352664,
       "pref": "TEAMBUFF",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -220,7 +220,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 44102.113412177176,
+        "dps": 44416.00745781545,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -247,7 +247,7 @@
       ]
     },
     "META": {
-      "tdps": 513273.15031977696,
+      "tdps": 521753.19712846697,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",
@@ -266,7 +266,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 26346.19567785392,
+        "dps": 26534.067039650694,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -283,7 +283,7 @@
       "slots.d": "Gala_Mars"
     },
     "META": {
-      "tdps": 174106.43337396163,
+      "tdps": 179181.89741728053,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",

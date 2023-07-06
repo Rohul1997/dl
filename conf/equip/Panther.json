@@ -44,8 +44,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 126122.64106909912,
-        "team": 0.02648193471973734,
+        "dps": 127074.99570574335,
+        "team": 0.026481934719737223,
         "noaff": false,
         "nihil": false
       },
@@ -86,7 +86,7 @@
       ]
     },
     "META": {
-      "tdps": 389308.3725890221,
+      "tdps": 401021.8918179545,
       "pref": "PERSONAL"
     }
   },
@@ -174,8 +174,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 52057.77240559044,
-        "team": 0.06150650011149271,
+        "dps": 52450.46100477634,
+        "team": 0.06150650011149259,
         "noaff": false,
         "nihil": true
       },
@@ -212,14 +212,14 @@
       ]
     },
     "META": {
-      "tdps": 697384.5531127295,
+      "tdps": 713156.7244750673,
       "pref": "PERSONAL"
     }
   },
   "ALWAYS-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 147355.69680159597,
+        "dps": 148467.4751012817,
         "team": 0.026481934719737223,
         "noaff": false,
         "nihil": false
@@ -254,8 +254,8 @@
   "ALWAYS-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 60149.28166471671,
-        "team": 0.06150650011149271,
+        "dps": 60603.007132931685,
+        "team": 0.06150650011149259,
         "noaff": false,
         "nihil": true
       },
@@ -315,7 +315,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 76092.02212156719,
+        "dps": 76654.27844266253,
         "team": 0.033181586907761663,
         "noaff": false,
         "nihil": false
@@ -344,7 +344,7 @@
       ]
     },
     "META": {
-      "tdps": 40453886.83545814,
+      "tdps": 44707004.23435043,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -355,8 +355,8 @@
   "IMMUNE-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 35977.11908802223,
-        "team": 0.06164272537184488,
+        "dps": 36248.50612293697,
+        "team": 0.06164272537184476,
         "noaff": false,
         "nihil": true
       },

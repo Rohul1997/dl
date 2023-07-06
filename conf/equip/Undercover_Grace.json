@@ -37,7 +37,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 161261.11630795067,
+        "dps": 162481.2371349244,
         "team": 0.0,
         "noaff": false,
         "nihil": false
@@ -75,7 +75,7 @@
       ]
     },
     "META": {
-      "tdps": 618475.7272589152,
+      "tdps": 629272.9394416887,
       "pref": "PERSONAL"
     }
   },
@@ -116,7 +116,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 84656.92937973111,
+        "dps": 85286.99955911306,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -153,14 +153,14 @@
       ]
     },
     "META": {
-      "tdps": 1064497.4770711265,
+      "tdps": 1086674.9340344658,
       "pref": "PERSONAL"
     }
   },
   "ALWAYS-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 181040.50901756014,
+        "dps": 182409.14408982202,
         "team": 0.0,
         "noaff": false,
         "nihil": false
@@ -208,7 +208,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 108175.23266438906,
+        "dps": 108981.58536678004,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -241,7 +241,7 @@
       ]
     },
     "META": {
-      "tdps": 1716602.7361920462,
+      "tdps": 1744985.0544475936,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",
@@ -252,7 +252,7 @@
   "IMMUNE-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 117948.92285958832,
+        "dps": 118846.91459622484,
         "team": 0.11372224975044228,
         "noaff": false,
         "nihil": false
@@ -290,8 +290,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 62953.159054311924,
-        "team": 0.00584321015284407,
+        "dps": 63425.613640307005,
+        "team": 0.005843210152844094,
         "noaff": false,
         "nihil": true
       },
@@ -323,7 +323,7 @@
       ]
     },
     "META": {
-      "tdps": 738107.2100701549,
+      "tdps": 759042.6840686336,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",

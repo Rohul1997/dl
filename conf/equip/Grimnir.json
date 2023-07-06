@@ -42,8 +42,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 109994.30862483312,
-        "team": 0.04999957121579835,
+        "dps": 110808.41123801036,
+        "team": 0.04999957121579827,
         "noaff": false,
         "nihil": false
       },
@@ -80,7 +80,7 @@
       ]
     },
     "META": {
-      "tdps": 67244.61951636194,
+      "tdps": 72785.75679307203,
       "pref": "PERSONAL"
     }
   },
@@ -128,7 +128,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 87859.18154230271,
+        "dps": 88518.43721398496,
         "team": 0.06820045219038606,
         "noaff": false,
         "nihil": true
@@ -164,15 +164,15 @@
       ]
     },
     "META": {
-      "tdps": 410660.12851013313,
+      "tdps": 427445.60482127743,
       "pref": "PERSONAL"
     }
   },
   "ALWAYS-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 127838.82525278597,
-        "team": 0.06248793162371062,
+        "dps": 128785.00076863718,
+        "team": 0.062487931623710524,
         "noaff": false,
         "nihil": false
       },
@@ -201,7 +201,7 @@
   "ALWAYS-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 101580.92563971257,
+        "dps": 102343.14309026404,
         "team": 0.07402720609735548,
         "noaff": false,
         "nihil": true
@@ -272,8 +272,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 99935.59836457977,
-        "team": 0.04999957121579835,
+        "dps": 100675.25328668604,
+        "team": 0.04999957121579827,
         "noaff": false,
         "nihil": false
       },
@@ -288,7 +288,7 @@
       ]
     },
     "META": {
-      "tdps": 43037.180641797684,
+      "tdps": 102264.72516698942,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -299,7 +299,7 @@
   "IMMUNE-NIHILISM-ANY": {
     "TEAMBUFF": {
       "EQMT": {
-        "dps": 40604.542113004856,
+        "dps": 40909.22028339246,
         "team": 0.10555371402957917,
         "noaff": false,
         "nihil": true
@@ -332,7 +332,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 40604.542113004856,
+        "dps": 40909.22028339246,
         "team": 0.10555371402957917,
         "noaff": false,
         "nihil": true

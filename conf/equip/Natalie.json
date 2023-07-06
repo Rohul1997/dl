@@ -36,7 +36,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 117913.75512951362,
+        "dps": 118803.84704348302,
         "team": 0.0,
         "noaff": false,
         "nihil": false
@@ -69,14 +69,14 @@
       ]
     },
     "META": {
-      "tdps": 560997.3088894505,
+      "tdps": 569138.1546854436,
       "pref": "PERSONAL"
     }
   },
   "SELF-NIHILISM-ANY": {
     "TEAMBUFF": {
       "EQMT": {
-        "dps": 61410.05187308901,
+        "dps": 61874.07692204059,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -110,7 +110,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 62594.91456111444,
+        "dps": 63067.89263892758,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -149,7 +149,7 @@
   "SELF-NIHILISM-MONO": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 61410.05187308901,
+        "dps": 61874.07692204059,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -171,7 +171,7 @@
   "ALWAYS-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 132564.6988906738,
+        "dps": 133565.385930373,
         "team": 0.0,
         "noaff": false,
         "nihil": false
@@ -198,7 +198,7 @@
       ]
     },
     "META": {
-      "tdps": 694995.9129139249,
+      "tdps": 704148.2698249215,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -207,9 +207,22 @@
     }
   },
   "ALWAYS-NIHILISM-ANY": {
+    "TEAMBUFF": {
+      "EQMT": {
+        "dps": 68449.94486335762,
+        "team": 0.0,
+        "noaff": false,
+        "nihil": true
+      },
+      "coabs": [
+        "Joker",
+        "Summer_Prince",
+        "Wand"
+      ]
+    },
     "PERSONAL": {
       "EQMT": {
-        "dps": 77077.55241779743,
+        "dps": 77659.38535221861,
         "team": 0.033121777514516414,
         "noaff": false,
         "nihil": true
@@ -230,9 +243,6 @@
         "`s1, hp<=20",
         "`s2, hp>21",
         "`s4"
-      ],
-      "dacl": [
-        "`ds1, ds1.overcharge=2"
       ],
       "coabs": [
         "Dagger2",
@@ -255,7 +265,7 @@
   "ALWAYS-NIHILISM-MONO": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 67936.6040493044,
+        "dps": 68449.94486335762,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -277,7 +287,7 @@
   "IMMUNE-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 82237.45901878398,
+        "dps": 82858.24238046724,
         "team": 0.0,
         "noaff": false,
         "nihil": false
@@ -293,7 +303,7 @@
       ]
     },
     "META": {
-      "tdps": 234699.2933121259,
+      "tdps": 240377.02337670373,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -304,7 +314,7 @@
   "IMMUNE-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 49012.0600483604,
+        "dps": 49381.742120976014,
         "team": 0.0,
         "noaff": false,
         "nihil": true

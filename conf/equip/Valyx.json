@@ -2,8 +2,8 @@
   "SELF-NORMAL-ANY": {
     "TEAMBUFF": {
       "EQMT": {
-        "dps": 86487.890088012,
-        "team": 0.06244616446776589,
+        "dps": 87119.81187577991,
+        "team": 0.062446164467765804,
         "noaff": false,
         "nihil": false
       },
@@ -40,8 +40,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 86487.890088012,
-        "team": 0.06244616446776589,
+        "dps": 87119.81187577991,
+        "team": 0.062446164467765804,
         "noaff": false,
         "nihil": false
       },
@@ -83,7 +83,7 @@
   "SELF-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 68322.91296549898,
+        "dps": 68807.6636290303,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -149,7 +149,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 105538.38245331561,
+        "dps": 106287.17665282673,
         "team": 0.06244616446776576,
         "noaff": false,
         "nihil": false
@@ -166,7 +166,7 @@
       "slots.d": "Corsaint_Phoenix"
     },
     "META": {
-      "tdps": 143056608.9672007,
+      "tdps": 157159268.23958996,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -177,7 +177,7 @@
   "ALWAYS-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 81579.63941306632,
+        "dps": 82158.4464723628,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -205,8 +205,8 @@
   "IMMUNE-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 73713.10772186793,
-        "team": 0.06244616446776576,
+        "dps": 74251.15960304944,
+        "team": 0.06244616446776586,
         "noaff": false,
         "nihil": false
       },

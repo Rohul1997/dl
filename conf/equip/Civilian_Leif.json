@@ -38,7 +38,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 107670.05188732053,
+        "dps": 108471.2345801572,
         "team": 0.10909087350051394,
         "noaff": false,
         "nihil": false
@@ -77,7 +77,7 @@
       ]
     },
     "META": {
-      "tdps": 557898.2736938931,
+      "tdps": 565957.9737948276,
       "pref": "PERSONAL"
     }
   },
@@ -120,7 +120,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 70881.4176377142,
+        "dps": 71409.28917990645,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -159,15 +159,15 @@
       ]
     },
     "META": {
-      "tdps": 420382.47723729844,
+      "tdps": 425824.1938189713,
       "pref": "PERSONAL"
     }
   },
   "ALWAYS-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 129756.02679093725,
-        "team": 0.1090908735005139,
+        "dps": 130722.55213016202,
+        "team": 0.10909087350051398,
         "noaff": false,
         "nihil": false
       },
@@ -192,7 +192,7 @@
   "ALWAYS-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 84320.40317968879,
+        "dps": 84948.48811957444,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -239,8 +239,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 74675.27238300657,
-        "team": 0.1268607999423545,
+        "dps": 75229.67737491993,
+        "team": 0.1268607999423546,
         "noaff": false,
         "nihil": false
       },
@@ -269,7 +269,7 @@
       ]
     },
     "META": {
-      "tdps": 314678.97887701524,
+      "tdps": 321470.1539777447,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -316,14 +316,14 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 70425.89091984066,
+        "dps": 70950.37004129574,
         "team": 0.0,
         "noaff": false,
         "nihil": true
       }
     },
     "META": {
-      "tdps": 615745.8623450595,
+      "tdps": 623622.4251053137,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",

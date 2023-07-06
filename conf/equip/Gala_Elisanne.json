@@ -2,7 +2,7 @@
   "SELF-NORMAL-ANY": {
     "TEAMBUFF": {
       "EQMT": {
-        "dps": 14131.401312528908,
+        "dps": 14246.095585167403,
         "team": 1.699530673851136,
         "noaff": true,
         "nihil": false
@@ -76,14 +76,14 @@
       ]
     },
     "META": {
-      "tdps": 37325.2189075442,
+      "tdps": 37247.00370433398,
       "pref": "TEAMBUFF"
     }
   },
   "SELF-NORMAL-MONO": {
     "TEAMBUFF": {
       "EQMT": {
-        "dps": 15089.605828413716,
+        "dps": 15212.077147896876,
         "team": 1.5909845413083585,
         "noaff": true,
         "nihil": false
@@ -104,7 +104,7 @@
       ]
     },
     "META": {
-      "tdps": 39603.312536948615,
+      "tdps": 39513.11733954374,
       "pref": "TEAMBUFF",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -115,8 +115,8 @@
   "SELF-NIHILISM-ANY": {
     "TEAMBUFF": {
       "EQMT": {
-        "dps": 8695.808025853881,
-        "team": 0.5865055067660194,
+        "dps": 8766.559160217499,
+        "team": 0.5865055067660192,
         "noaff": true,
         "nihil": true
       },
@@ -155,8 +155,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 45234.396364408174,
-        "team": 0.23079529057626985,
+        "dps": 45601.80834847874,
+        "team": 0.23079529057626963,
         "noaff": false,
         "nihil": true
       },
@@ -188,7 +188,7 @@
       ]
     },
     "META": {
-      "tdps": 102720.09820224898,
+      "tdps": 103554.09406799804,
       "pref": "PERSONAL"
     }
   },
@@ -222,7 +222,7 @@
       ]
     },
     "META": {
-      "tdps": 52288.98200394361,
+      "tdps": 52190.09604248422,
       "pref": "TEAMBUFF",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -233,8 +233,8 @@
   "ALWAYS-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 66836.78976448672,
-        "team": 0.14235999424519227,
+        "dps": 67379.562561441,
+        "team": 0.14235999424519208,
         "noaff": false,
         "nihil": true
       },
@@ -269,7 +269,7 @@
       ]
     },
     "META": {
-      "tdps": 130905.25537147345,
+      "tdps": 132127.31611880296,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",
@@ -291,7 +291,7 @@
       ]
     },
     "META": {
-      "tdps": 31079.47827183103,
+      "tdps": 30995.41372496369,
       "pref": "TEAMBUFF",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -336,7 +336,7 @@
       ]
     },
     "META": {
-      "tdps": 269245.50926688476,
+      "tdps": 268313.262466146,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",
@@ -382,7 +382,7 @@
       ]
     },
     "META": {
-      "tdps": 26094.540580683923,
+      "tdps": 25746.733610784588,
       "pref": "TEAMBUFF",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",

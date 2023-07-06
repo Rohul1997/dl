@@ -2,8 +2,8 @@
   "SELF-NORMAL-ANY": {
     "TEAMBUFF": {
       "EQMT": {
-        "dps": 82003.08556851765,
-        "team": 0.20163722413202223,
+        "dps": 82655.23082487413,
+        "team": 0.20163722413202198,
         "noaff": true,
         "nihil": false
       },
@@ -39,8 +39,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 98224.79262645727,
-        "team": 0.08746809231097633,
+        "dps": 99006.42227600465,
+        "team": 0.08746809231097619,
         "noaff": false,
         "nihil": false
       },
@@ -76,14 +76,14 @@
       ]
     },
     "META": {
-      "tdps": 142084.87705211155,
+      "tdps": 143219.02243033756,
       "pref": "PERSONAL"
     }
   },
   "SELF-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 39794.29858430758,
+        "dps": 40110.38364434586,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -121,8 +121,8 @@
   "ALWAYS-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 112568.72752855188,
-        "team": 0.04999268440384873,
+        "dps": 113463.04009192804,
+        "team": 0.04999268440384867,
         "noaff": false,
         "nihil": false
       },
@@ -153,7 +153,7 @@
       ]
     },
     "META": {
-      "tdps": 201561.111364932,
+      "tdps": 207458.53810366732,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -164,7 +164,7 @@
   "ALWAYS-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 59140.44971110307,
+        "dps": 59610.200737321575,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -200,14 +200,14 @@
   "IMMUNE-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 82284.55837582705,
-        "team": 0.18584517058770061,
+        "dps": 82655.23082487413,
+        "team": 0.20163722413202198,
         "noaff": true,
         "nihil": false
       },
       "slots.a": [
         "Emissaries_of_the_Heavens",
-        "Jewels_of_the_Sun",
+        "Honest_Repose",
         "Twinfold_Bonds",
         "A_Passion_for_Produce",
         "Having_a_Summer_Ball",
@@ -229,8 +229,7 @@
       ]
     },
     "META": {
-      "tdps": 17823.698895107336,
-      "pref": "TEAMBUFF",
+      "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
         "TEAMBUFF": "SELF-NORMAL-ANY"
@@ -240,7 +239,7 @@
   "IMMUNE-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 36588.971471784884,
+        "dps": 36879.59670343451,
         "team": 0.0,
         "noaff": false,
         "nihil": true

@@ -41,8 +41,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 82625.92887474404,
-        "team": 0.07863302742232735,
+        "dps": 83244.66179689858,
+        "team": 0.07863302742232711,
         "noaff": false,
         "nihil": false
       },
@@ -79,7 +79,7 @@
       ]
     },
     "META": {
-      "tdps": 2906952.6357984873,
+      "tdps": 2997004.9181445027,
       "pref": "PERSONAL"
     }
   },
@@ -129,8 +129,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 52071.678808357596,
-        "team": 0.024681749967912236,
+        "dps": 52461.61042461122,
+        "team": 0.024681749967912184,
         "noaff": false,
         "nihil": true
       },
@@ -171,7 +171,7 @@
       ]
     },
     "META": {
-      "tdps": 2073881.2607546714,
+      "tdps": 2118902.3078855537,
       "pref": "PERSONAL"
     }
   },
@@ -220,7 +220,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 94568.55634392057,
+        "dps": 95276.86334487717,
         "team": 0.07142747497288361,
         "noaff": false,
         "nihil": false
@@ -253,7 +253,7 @@
       ]
     },
     "META": {
-      "tdps": 177756.67482462688,
+      "tdps": 182526.3780346737,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -264,7 +264,7 @@
   "ALWAYS-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 55321.15681062415,
+        "dps": 55735.4216966782,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -319,8 +319,8 @@
   "IMMUNE-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 47031.3842658918,
-        "team": 0.21992874848286603,
+        "dps": 47383.572328599315,
+        "team": 0.2199287484828662,
         "noaff": false,
         "nihil": false
       },
@@ -370,8 +370,8 @@
   "IMMUNE-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 35186.730763918036,
-        "team": 0.03334284607969151,
+        "dps": 35450.22176538841,
+        "team": 0.033342846079691464,
         "noaff": false,
         "nihil": true
       },

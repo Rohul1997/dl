@@ -42,8 +42,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 105144.10540907626,
-        "team": 0.11410953609999791,
+        "dps": 105921.23922852009,
+        "team": 0.1141095360999978,
         "noaff": false,
         "nihil": false
       },
@@ -82,15 +82,15 @@
       ]
     },
     "META": {
-      "tdps": 228305.10272893822,
+      "tdps": 235594.10253562487,
       "pref": "PERSONAL"
     }
   },
   "SELF-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 106028.42628043203,
-        "team": 0.12528660525769342,
+        "dps": 106812.09623096659,
+        "team": 0.1252866052576933,
         "noaff": false,
         "nihil": true
       },
@@ -135,8 +135,8 @@
   "ALWAYS-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 116339.25074336612,
-        "team": 0.2451959178679508,
+        "dps": 117199.8169723754,
+        "team": 0.24519591786795053,
         "noaff": false,
         "nihil": false
       },
@@ -179,8 +179,8 @@
   "ALWAYS-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 109781.05879958262,
-        "team": 0.12528660525769342,
+        "dps": 110592.46494732227,
+        "team": 0.1252866052576933,
         "noaff": false,
         "nihil": true
       }
@@ -204,14 +204,14 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 64753.68690162291,
-        "team": 0.11410953609999791,
+        "dps": 65232.28986114347,
+        "team": 0.1141095360999978,
         "noaff": false,
         "nihil": false
       }
     },
     "META": {
-      "tdps": 241406.0534059105,
+      "tdps": 256739.6084144147,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -253,8 +253,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 50355.86071015453,
-        "team": 0.11675394483599032,
+        "dps": 50728.04745531548,
+        "team": 0.11675394483599018,
         "noaff": false,
         "nihil": true
       },
@@ -276,7 +276,7 @@
       ]
     },
     "META": {
-      "tdps": 629482.3060361921,
+      "tdps": 646918.4799834411,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",

@@ -40,8 +40,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 94124.70399558883,
-        "team": 0.062493462489451715,
+        "dps": 94890.25669177093,
+        "team": 0.06249346248945162,
         "noaff": false,
         "nihil": false
       },
@@ -76,49 +76,14 @@
       ]
     },
     "META": {
-      "tdps": 481704.3106226089,
+      "tdps": 488704.6661647033,
       "pref": "PERSONAL"
     }
   },
   "SELF-NIHILISM-ANY": {
-    "TEAMBUFF": {
-      "EQMT": {
-        "dps": 33908.96524480691,
-        "team": 0.0,
-        "noaff": false,
-        "nihil": true
-      },
-      "slots.a": [
-        "Dear_Diary",
-        "Memory_of_a_Friend",
-        "Spirit_of_the_Season",
-        "A_Small_Courage",
-        "The_Nobles_Day_Off",
-        "Applelicious_Dreams",
-        "Savage_Hawk_Lance"
-      ],
-      "slots.d": "Gala_Reborn_Jeanne",
-      "acl": [
-        "`dragon, s=1",
-        "`s3",
-        "`s2",
-        "`s1",
-        "`s4, cancel",
-        "`fs, x=5"
-      ],
-      "coabs": [
-        "Blade",
-        "Peony",
-        "Wand"
-      ],
-      "share": [
-        "Grimnir",
-        "Ilia"
-      ]
-    },
     "PERSONAL": {
       "EQMT": {
-        "dps": 35906.326009626595,
+        "dps": 36197.77346100341,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -156,40 +121,10 @@
     }
   },
   "ALWAYS-NORMAL-ANY": {
-    "TEAMBUFF": {
-      "EQMT": {
-        "dps": 83827.45390364746,
-        "team": 0.12239030194867918,
-        "noaff": false,
-        "nihil": false
-      },
-      "slots.a": [
-        "Dear_Diary",
-        "Emissaries_of_the_Heavens",
-        "Extreme_Teamwork",
-        "A_Game_of_Cat_and_Boar",
-        "Chariot_Drift",
-        "Applelicious_Dreams",
-        "Testament_of_Eternity"
-      ],
-      "acl": [
-        "`dragon, s=1",
-        "`s3, not buff(s3)",
-        "`s2",
-        "`s1",
-        "`s4, cancel or buff(s2)",
-        "`fs, x=5"
-      ],
-      "dacl": [
-        "`ds1, dshift_timeleft<1 or duration-now<3",
-        "`dodge, fsc",
-        "`dfs3, x=1"
-      ]
-    },
     "PERSONAL": {
       "EQMT": {
-        "dps": 139254.61402696455,
-        "team": 0.06249346248945162,
+        "dps": 140671.81954321772,
+        "team": 0.062493462489451715,
         "noaff": false,
         "nihil": false
       },
@@ -204,7 +139,6 @@
       ]
     },
     "META": {
-      "tdps": 925377.041989786,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -215,7 +149,7 @@
   "ALWAYS-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 52951.52828479064,
+        "dps": 52629.94549629531,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -289,8 +223,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 28789.86488873106,
-        "team": 0.10310584614018672,
+        "dps": 30232.047731308103,
+        "team": 0.11333346693984665,
         "noaff": false,
         "nihil": false
       },
@@ -313,7 +247,7 @@
         "`fs,x=5"
       ],
       "dacl": [
-        "`ds1, dshift_timeleft<2"
+        "`ds1, x=3"
       ],
       "coabs": [
         "Blade",
@@ -326,8 +260,8 @@
       ]
     },
     "META": {
-      "tdps": -117021.84067422239,
-      "pref": "TEAMBUFF",
+      "tdps": 870478.2238036138,
+      "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
         "TEAMBUFF": "SELF-NORMAL-ANY"
@@ -337,7 +271,7 @@
   "IMMUNE-NIHILISM-ANY": {
     "TEAMBUFF": {
       "EQMT": {
-        "dps": 23458.994074858263,
+        "dps": 23668.93645887446,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -351,7 +285,6 @@
         "Applelicious_Dreams",
         "Testament_of_Eternity"
       ],
-      "slots.d": "High_Jupiter",
       "acl": [
         "`dragon",
         "`s2, s=1",
@@ -372,7 +305,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 23458.994074858263,
+        "dps": 23668.93645887446,
         "team": 0.0,
         "noaff": false,
         "nihil": true

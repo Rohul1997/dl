@@ -41,8 +41,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 121388.77325148553,
-        "team": 0.07186559891498612,
+        "dps": 122307.22550811722,
+        "team": 0.07186559891498621,
         "noaff": false,
         "nihil": false
       },
@@ -79,15 +79,15 @@
       ]
     },
     "META": {
-      "tdps": 471384.39781640936,
+      "tdps": 483703.60005185055,
       "pref": "PERSONAL"
     }
   },
   "SELF-NORMAL-MONO": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 116742.15379138656,
-        "team": 0.07186559891498612,
+        "dps": 117625.44877593676,
+        "team": 0.07186559891498621,
         "noaff": false,
         "nihil": false
       },
@@ -156,7 +156,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 72707.37533882684,
+        "dps": 73256.91670187488,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -194,15 +194,15 @@
       ]
     },
     "META": {
-      "tdps": 368113.4515298029,
+      "tdps": 376376.6723667793,
       "pref": "PERSONAL"
     }
   },
   "ALWAYS-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 128792.74327602432,
-        "team": 0.07176129953653591,
+        "dps": 129767.2154824004,
+        "team": 0.07176129953653602,
         "noaff": false,
         "nihil": false
       },
@@ -230,7 +230,7 @@
   "ALWAYS-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 80458.78801704892,
+        "dps": 81066.91658488722,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -291,7 +291,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 82122.74871865858,
+        "dps": 82743.97564739818,
         "team": 0.0,
         "noaff": false,
         "nihil": false
@@ -323,7 +323,7 @@
       ]
     },
     "META": {
-      "tdps": 360936.45129745075,
+      "tdps": 369938.14856326755,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -334,7 +334,7 @@
   "IMMUNE-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 11911.586805057575,
+        "dps": 12001.61769419932,
         "team": 0.0,
         "noaff": false,
         "nihil": true

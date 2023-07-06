@@ -37,7 +37,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 89718.20056648226,
+        "dps": 90364.81822822265,
         "team": 0.06244598155400893,
         "noaff": false,
         "nihil": false
@@ -74,7 +74,7 @@
       ]
     },
     "META": {
-      "tdps": 288953.209390874,
+      "tdps": 295208.19910711085,
       "pref": "PERSONAL"
     }
   },
@@ -121,8 +121,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 95545.33137015306,
-        "team": 0.08169187698230511,
+        "dps": 96233.3953688179,
+        "team": 0.08169187698230503,
         "noaff": false,
         "nihil": true
       },
@@ -160,7 +160,7 @@
       ]
     },
     "META": {
-      "tdps": 107372.09219642493,
+      "tdps": 119421.14011288965,
       "pref": "PERSONAL"
     }
   },
@@ -205,7 +205,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 113985.91031442715,
+        "dps": 114807.43038876537,
         "team": 0.062445637891623634,
         "noaff": false,
         "nihil": false
@@ -221,7 +221,7 @@
       ]
     },
     "META": {
-      "tdps": 198575.6339437624,
+      "tdps": 204600.61784460707,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -232,8 +232,8 @@
   "ALWAYS-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 97112.02183173856,
-        "team": 0.08169187698230511,
+        "dps": 97811.36825821239,
+        "team": 0.08169187698230503,
         "noaff": false,
         "nihil": true
       }
@@ -249,7 +249,7 @@
   "IMMUNE-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 48321.22850277118,
+        "dps": 48669.14134799114,
         "team": 0.06244598155400882,
         "noaff": false,
         "nihil": false
@@ -275,8 +275,8 @@
   "IMMUNE-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 26316.610515599703,
-        "team": 0.11261037041860639,
+        "dps": 26506.128014811868,
+        "team": 0.11261037041860623,
         "noaff": false,
         "nihil": true
       },

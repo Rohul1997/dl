@@ -40,8 +40,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 105397.65810512514,
-        "team": 0.11993117283247981,
+        "dps": 106165.22323905755,
+        "team": 0.11993117283247953,
         "noaff": true,
         "nihil": false
       },
@@ -79,7 +79,7 @@
       ]
     },
     "META": {
-      "tdps": 151609.94814804557,
+      "tdps": 152781.18867854017,
       "pref": "PERSONAL"
     }
   },
@@ -117,7 +117,7 @@
       ]
     },
     "META": {
-      "tdps": 1689432.3622426158,
+      "tdps": 1708650.4188843656,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -161,7 +161,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 60239.53352135421,
+        "dps": 60678.78011994732,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -198,15 +198,15 @@
       ]
     },
     "META": {
-      "tdps": 884758.9951411771,
+      "tdps": 894784.4383083058,
       "pref": "PERSONAL"
     }
   },
   "ALWAYS-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 128453.68544263246,
-        "team": 0.1198754693665726,
+        "dps": 129390.13180599267,
+        "team": 0.11987546936657256,
         "noaff": false,
         "nihil": false
       },
@@ -233,7 +233,7 @@
       ]
     },
     "META": {
-      "tdps": 186775.65181309264,
+      "tdps": 188204.46960035816,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -252,7 +252,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 61259.47123673747,
+        "dps": 61706.0618414627,
         "team": 0.023224592350537594,
         "noaff": false,
         "nihil": true
@@ -284,7 +284,7 @@
       ]
     },
     "META": {
-      "tdps": 1828486.6420193743,
+      "tdps": 1850177.8089255323,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",
@@ -303,15 +303,15 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 59947.314975081026,
+        "dps": 60346.88049876386,
         "team": 0.0,
         "noaff": true,
         "nihil": true
       },
       "slots.a": [
-        "Blossoms_on_the_Waters_Edge",
         "Dragon_Brethren",
         "Emissaries_of_the_Heavens",
+        "Soaring_Hope",
         "Dueling_Dancers",
         "Entwined_Flames",
         "Applelicious_Dreams",
@@ -323,7 +323,7 @@
       ]
     },
     "META": {
-      "tdps": 1030823.5524344511,
+      "tdps": 1039943.3076290429,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",

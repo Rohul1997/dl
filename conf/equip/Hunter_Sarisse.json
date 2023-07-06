@@ -35,8 +35,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 114265.12945978004,
-        "team": 0.10948029944382254,
+        "dps": 115129.68277221195,
+        "team": 0.10948029944382273,
         "noaff": false,
         "nihil": false
       },
@@ -73,15 +73,15 @@
       ]
     },
     "META": {
-      "tdps": 1393221.844264522,
+      "tdps": 1423673.3518710188,
       "pref": "PERSONAL"
     }
   },
   "SELF-NORMAL-MONO": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 112729.81997791132,
-        "team": 0.11042822594155254,
+        "dps": 113582.75682515922,
+        "team": 0.11042822594155279,
         "noaff": false,
         "nihil": false
       },
@@ -92,7 +92,7 @@
       ]
     },
     "META": {
-      "tdps": 1385400.6937919152,
+      "tdps": 1416480.7473099602,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -136,7 +136,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 75953.56561263128,
+        "dps": 76527.64253097166,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -173,14 +173,14 @@
       ]
     },
     "META": {
-      "tdps": 874037.8308711089,
+      "tdps": 891263.0480345013,
       "pref": "PERSONAL"
     }
   },
   "SELF-NIHILISM-MONO": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 71937.08110574444,
+        "dps": 72480.80038347,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -192,7 +192,7 @@
       ]
     },
     "META": {
-      "tdps": 753522.9387821943,
+      "tdps": 769837.2728645006,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",
@@ -203,7 +203,7 @@
   "ALWAYS-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 141528.66463537034,
+        "dps": 142598.3753065596,
         "team": 0.10948029944382273,
         "noaff": false,
         "nihil": false
@@ -219,7 +219,7 @@
       ]
     },
     "META": {
-      "tdps": 2353504.728895324,
+      "tdps": 2391182.3390230695,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -247,14 +247,14 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 79523.48793760249,
+        "dps": 80124.54726276605,
         "team": 0.0,
         "noaff": false,
         "nihil": true
       }
     },
     "META": {
-      "tdps": 761861.0683959336,
+      "tdps": 779895.8945198534,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",
@@ -265,7 +265,7 @@
   "ALWAYS-NIHILISM-MONO": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 74408.45661805199,
+        "dps": 74971.44620154284,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -297,7 +297,7 @@
       ]
     },
     "META": {
-      "tdps": 608384.2041256805,
+      "tdps": 625276.7450492784,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-MONO",
@@ -308,15 +308,15 @@
   "IMMUNE-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 103255.47821778712,
-        "team": 0.10775809148383775,
+        "dps": 104036.73025978792,
+        "team": 0.10775809148383794,
         "noaff": true,
         "nihil": false
       },
       "slots.d": "Gala_Reborn_Poseidon"
     },
     "META": {
-      "tdps": 947935.4327206817,
+      "tdps": 973879.1368284029,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",

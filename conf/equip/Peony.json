@@ -37,8 +37,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 99025.04786217159,
-        "team": 0.1419782101526792,
+        "dps": 99731.07285202229,
+        "team": 0.1419782101526791,
         "noaff": false,
         "nihil": false
       },
@@ -76,7 +76,7 @@
       ]
     },
     "META": {
-      "tdps": 147154.7193740541,
+      "tdps": 148345.05712996048,
       "pref": "PERSONAL"
     }
   },
@@ -104,7 +104,7 @@
       ]
     },
     "META": {
-      "tdps": 198069.69149989967,
+      "tdps": 199610.4615425232,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -113,6 +113,46 @@
     }
   },
   "SELF-NIHILISM-ANY": {
+    "TEAMBUFF": {
+      "EQMT": {
+        "dps": 56948.33537052049,
+        "team": 0.0,
+        "noaff": false,
+        "nihil": true
+      },
+      "slots.a": [
+        "Pecorines_Grand_Adventure",
+        "Soaring_Hope",
+        "The_Bridal_Dragon",
+        "Dueling_Dancers",
+        "Snipers_Allure",
+        "Applelicious_Dreams",
+        "Mask_of_Determination_Lance"
+      ],
+      "slots.d": "Gala_Chronos_Nyx",
+      "acl": [
+        "`dragon",
+        "`fs, c_fs(peonydreams) and (s2.check() and cancel)",
+        "`s3",
+        "`s2, not c_fs(peonydreams)",
+        "`s1",
+        "`s4, cancel"
+      ],
+      "dacl": [
+        "`ds1, dshift_timeleft<1 or duration-now<3",
+        "`dodge, fsc",
+        "`dfs3, x=1"
+      ],
+      "coabs": [
+        "Halloween_Laxi",
+        "Mitsuhide",
+        "Sharena"
+      ],
+      "share": [
+        "Weapon",
+        "Humanoid_Mercury"
+      ]
+    },
     "PERSONAL": {
       "EQMT": {
         "dps": 59701.18029099739,
@@ -160,8 +200,8 @@
   "ALWAYS-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 141027.3675054345,
-        "team": 0.14197821015267925,
+        "dps": 142033.88419847895,
+        "team": 0.14197821015267897,
         "noaff": false,
         "nihil": false
       },
@@ -186,7 +226,7 @@
   "ALWAYS-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 103228.46928246666,
+        "dps": 103965.21406731298,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -220,7 +260,7 @@
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",
-        "TEAMBUFF": "SELF-NORMAL-ANY"
+        "TEAMBUFF": "SELF-NIHILISM-ANY"
       }
     }
   },
@@ -245,14 +285,14 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 96649.12900659571,
-        "team": 0.1419782101526792,
+        "dps": 97338.21426127733,
+        "team": 0.14197821015267909,
         "noaff": false,
         "nihil": false
       }
     },
     "META": {
-      "tdps": 3032045.0654119723,
+      "tdps": 3063306.5257399753,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -261,6 +301,19 @@
     }
   },
   "IMMUNE-NIHILISM-ANY": {
+    "TEAMBUFF": {
+      "EQMT": {
+        "dps": 52320.424705929996,
+        "team": 0.0,
+        "noaff": false,
+        "nihil": true
+      },
+      "coabs": [
+        "Blade",
+        "Dagger",
+        "Wand"
+      ]
+    },
     "PERSONAL": {
       "EQMT": {
         "dps": 53643.1160104736,
@@ -278,7 +331,7 @@
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",
-        "TEAMBUFF": "SELF-NORMAL-ANY"
+        "TEAMBUFF": "SELF-NIHILISM-ANY"
       }
     }
   }
