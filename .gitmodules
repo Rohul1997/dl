@@ -1,6 +1,6 @@
 [submodule "www"]
 	path = www
-	url = https://github.com/dl-stuff/dl-sim-deploy.git
+	url = https://github.com/Rohul1997/Rohul1997.github.io.git
 [submodule "wwwsrc"]
 	path = wwwsrc
-	url = https://github.com/dl-stuff/dlsim-vue.git
+	url = https://github.com/Rohul1997/dlsim-vue.git
