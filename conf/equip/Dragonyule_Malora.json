@@ -211,11 +211,20 @@
   "ALWAYS-NIHILISM-ANY": {
     "TEAMBUFF": {
       "EQMT": {
-        "dps": 39335.85535623049,
-        "team": 0.18442265410782663,
+        "dps": 39742.912963896946,
+        "team": 0.18442265410782674,
         "noaff": false,
         "nihil": true
       },
+      "slots.a": [
+        "Emissaries_of_the_Heavens",
+        "Extreme_Teamwork",
+        "Spirit_of_the_Season",
+        "A_Small_Courage",
+        "The_Queen_of_the_Knife",
+        "Applelicious_Dreams",
+        "Mask_of_Determination_Bow"
+      ],
       "coabs": [
         "Bow",
         "Peony",

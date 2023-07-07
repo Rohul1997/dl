@@ -2,8 +2,8 @@
   "SELF-NORMAL-ANY": {
     "TEAMBUFF": {
       "EQMT": {
-        "dps": 51515.92363673785,
-        "team": 0.049995719810876804,
+        "dps": 50882.74652686223,
+        "team": 0.049961982794820496,
         "noaff": true,
         "nihil": false
       },
@@ -43,7 +43,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 56339.85733346767,
+        "dps": 57862.118304980526,
         "team": 0.0,
         "noaff": false,
         "nihil": false
@@ -83,7 +83,7 @@
       ]
     },
     "META": {
-      "tdps": 96486.93358106933,
+      "tdps": 139693.6508060652,
       "pref": "PERSONAL"
     }
   },
@@ -128,8 +128,8 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 44108.63261034495,
-        "team": 0.006517743256994412,
+        "dps": 43413.25804789449,
+        "team": 0.006526323971677753,
         "noaff": false,
         "nihil": true
       },
@@ -164,15 +164,15 @@
       ]
     },
     "META": {
-      "tdps": 431718.84215956595,
+      "tdps": 401476.4238869253,
       "pref": "PERSONAL"
     }
   },
   "ALWAYS-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 79421.36983909518,
-        "team": 0.04995664172864909,
+        "dps": 79381.72499538436,
+        "team": 0.0499568177652338,
         "noaff": false,
         "nihil": false
       },
@@ -206,7 +206,7 @@
       ]
     },
     "META": {
-      "tdps": 714094566.8660716,
+      "tdps": 716306839.3463274,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
@@ -217,7 +217,7 @@
   "ALWAYS-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 58225.32248737792,
+        "dps": 57645.19246894054,
         "team": 0.0,
         "noaff": false,
         "nihil": true
@@ -260,8 +260,8 @@
   "IMMUNE-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 47386.82249190548,
-        "team": 0.049963484434443414,
+        "dps": 50882.74652686223,
+        "team": 0.049961982794820496,
         "noaff": true,
         "nihil": false
       },
@@ -274,14 +274,22 @@
         "Mask_of_Determination_Lance",
         "Treasured_Memory_of_the_Sea"
       ],
+      "slots.d": "Gala_Reborn_Agni",
+      "dacl": [
+        "ds1,x=3"
+      ],
+      "coabs": [
+        "Blade",
+        "Gala_Laxi",
+        "Kimono_Elisanne"
+      ],
       "share": [
         "Weapon",
         "Akasha"
       ]
     },
     "META": {
-      "tdps": -128092226.66794674,
-      "pref": "TEAMBUFF",
+      "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NORMAL-ANY",
         "TEAMBUFF": "SELF-NORMAL-ANY"
@@ -299,14 +307,14 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 42762.85119078831,
-        "team": 0.00650882691171607,
+        "dps": 42239.10639037166,
+        "team": 0.006453350222680233,
         "noaff": false,
         "nihil": true
       }
     },
     "META": {
-      "tdps": 582100.1361978038,
+      "tdps": 539822.6206200178,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",

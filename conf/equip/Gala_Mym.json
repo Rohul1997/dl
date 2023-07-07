@@ -373,47 +373,10 @@
     }
   },
   "IMMUNE-NIHILISM-ANY": {
-    "TEAMBUFF": {
-      "EQMT": {
-        "dps": 58403.33721495743,
-        "team": 0.06083657851716059,
-        "noaff": false,
-        "nihil": true
-      },
-      "slots.a": [
-        "Holywyrms_Advent",
-        "Memory_of_a_Friend",
-        "Moonlight_Party",
-        "A_Small_Courage",
-        "To_the_Extreme",
-        "Applelicious_Dreams",
-        "Savage_Hawk_Lance"
-      ],
-      "acl": [
-        "`dragon, dshift_count=0",
-        "`dragon, dshift_count=1",
-        "`dragon, dshift_count>=2",
-        "`s3, not dshift_count =4",
-        "`s1, cancel or dshift_count =4",
-        "`s2, fscf or dshift_count=4",
-        "`s4, fscf",
-        "`fs, x=5",
-        "`dodge, fsc"
-      ],
-      "coabs": [
-        "Blade",
-        "Kimono_Elisanne",
-        "Yuya"
-      ],
-      "share": [
-        "Student_Maribelle",
-        "Summer_Julietta"
-      ]
-    },
     "PERSONAL": {
       "EQMT": {
-        "dps": 51415.465318250186,
-        "team": 0.06083657851716051,
+        "dps": 52838.92621347697,
+        "team": 0.05477594130793852,
         "noaff": false,
         "nihil": true
       },
@@ -436,6 +399,10 @@
         "`s4, fscf",
         "`fs, x=5",
         "`dodge, fsc"
+      ],
+      "dacl": [
+        "`ds1, x=3",
+        "`sack, dshift_count<3"
       ],
       "share": [
         "Student_Maribelle",
@@ -443,8 +410,7 @@
       ]
     },
     "META": {
-      "tdps": -9.155077024035925e+19,
-      "pref": "TEAMBUFF",
+      "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",
         "TEAMBUFF": "SELF-NORMAL-ANY"

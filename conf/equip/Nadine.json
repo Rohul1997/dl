@@ -41,7 +41,7 @@
     },
     "PERSONAL": {
       "EQMT": {
-        "dps": 105591.68689652563,
+        "dps": 105483.04052201705,
         "team": 0.0,
         "noaff": false,
         "nihil": false
@@ -79,7 +79,7 @@
       ]
     },
     "META": {
-      "tdps": 181008.6845012286,
+      "tdps": 180023.35674524718,
       "pref": "PERSONAL"
     }
   },
@@ -167,7 +167,7 @@
   "ALWAYS-NORMAL-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 112610.91828433659,
+        "dps": 112619.82113498816,
         "team": 0.0,
         "noaff": false,
         "nihil": false

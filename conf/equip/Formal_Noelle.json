@@ -102,7 +102,7 @@
   "SELF-NIHILISM-ANY": {
     "PERSONAL": {
       "EQMT": {
-        "dps": 49740.39339524733,
+        "dps": 49740.393395247316,
         "team": 0.0636751511941101,
         "noaff": false,
         "nihil": true
@@ -178,7 +178,7 @@
       ]
     },
     "META": {
-      "tdps": 2769426.295948893,
+      "tdps": 2769426.295948888,
       "pref": "PERSONAL",
       "partial": {
         "PERSONAL": "SELF-NIHILISM-ANY",
